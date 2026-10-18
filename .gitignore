@@ -1,0 +1,12 @@
+# Obsidian per-device state
+.obsidian/workspace*
+.trash/
+
+# Never commit course material or personal study output
+*.pdf
+*.pptx
+*.ppt
+*.docx
+*.lean
+*.vtt
+*.srt
